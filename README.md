@@ -52,5 +52,5 @@ Selain itu, desain aplikasi dibuat sesuai contoh pada modul *Flutter Navigation 
 
 ## Demo Video
 
-[![Tonton Demo](https://img.youtube.com/vi/<YOUTUBE_VIDEO_ID>/0.jpg)](https://youtu.be/waB_qRaXKqo)
+[![Tonton Demo](https://img.youtube.com/vi/waB_qRaXKqo/0.jpg)](https://youtu.be/waB_qRaXKqo)
 
