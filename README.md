@@ -52,5 +52,14 @@ Selain itu, desain aplikasi dibuat sesuai contoh pada modul *Flutter Navigation 
 
 ## Demo Video
 
-<iframe width="935" height="526" src="https://www.youtube.com/embed/waB_qRaXKqo" title="tugas 2 dncc mobile" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## 🎬 Demo Aplikasi (Embedded)
+
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/<YOUTUBE_VIDEO_ID>"
+  title="Demo Aplikasi FoodPedia"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
 
