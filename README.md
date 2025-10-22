@@ -52,11 +52,5 @@ Selain itu, desain aplikasi dibuat sesuai contoh pada modul *Flutter Navigation 
 
 ## Demo Video
 
-<iframe width="560" height="315"
-  src="https://youtu.be/waB_qRaXKqo"
-  title="Demo Tugas 2 Aplikasi"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen>
-</iframe>
+<iframe width="935" height="526" src="https://www.youtube.com/embed/waB_qRaXKqo" title="tugas 2 dncc mobile" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
