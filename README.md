@@ -52,5 +52,11 @@ Selain itu, desain aplikasi dibuat sesuai contoh pada modul *Flutter Navigation 
 
 ## Demo Video
 
-[![Tonton Demo](https://img.youtube.com/vi/waB_qRaXKqo/0.jpg)](https://youtu.be/waB_qRaXKqo)
+<iframe width="560" height="315"
+  src="https://youtu.be/waB_qRaXKqo"
+  title="Demo Tugas 2 Aplikasi"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
 
